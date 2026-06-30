@@ -1,0 +1,79 @@
+response,emotional_acknowledgment,contextual_grounding,emotional_validation,supportive_intent,generic_empathy,emotional_overclaim,functional_empathy,eliza_risk,final_score
+"I haven't seen it, but I know a lot of people like it.  Sounds good, were you said throughout the series or because of an ending? I appreciate that! I wish I had watched it so you could talk more about it. ",0.8,0.6,0.8,0.9,0.7,0.0,0.775,-0.40113428494794595,1.176134284947946
+Thats so terrible! :( Im really sorry... you should do something special everyday and make memories!  It really doesnt.. i had to put my dog to sleep and it was extremely painful. I really hope that he can rest without pain and that you can feel better soon.. ,0.8,0.9,0.7,0.9,0.6,0.2,0.8250000000000001,-0.40113428494794595,1.226134284947946
+"Sorry to hear.  Will you be planning anything special? If you have other family member around you, ask around and get everyone involved.  It should be nice.",0.8,0.4,0.6,0.8,0.4,0.0,0.6500000000000001,-0.421899005250008,1.0718990052500081
+Sorry for the bad news. I know she will make it.,0.8,0.6,0.8,0.9,0.4,0.0,0.775,-0.5190218338982221,1.2940218338982221
+"oh no! I bet your so sad right now. im sorry for your loss I know it can be upsetting and sad, but take your time. It will be ok. ",0.8,0.9,0.8,0.9,0.7,0.2,0.85,-0.3799489622552249,1.2299489622552249
+I am sorry to hear that.Following a diet is very stresffull. You probably need to get more motivated.,0.8,0.4,0.2,0.2,0.6,0.6,0.4,0.19737532022490395,0.20262467977509607
+"That is a real bummer. Maybe you should take some time to reflect on their life. Yeah, no need to talk to me about it right now. Think about all the good times you had together.",0.8,0.4,0.2,0.6,0.8,0.0,0.5,-0.09966799462495579,0.5996679946249558
+"I understand.  Tell me about it. Yes, one day at a time.",0.8,0.6,0.8,0.9,0.4,0.0,0.775,-0.5190218338982221,1.2940218338982221
+I'm sorry to hear that. I lost mine recently also. That must be hard. ,0.9,0.8,0.7,0.9,0.6,0.0,0.8250000000000001,-0.48154979836430806,1.3065497983643082
+"Oh that's horrible. Who's Brian Lawyer? I've never heard of him, but that sucks. How'd he die? Oh wow that's horrible.",0.8,0.2,0.8,0.6,0.4,0.0,0.6,-0.37994896225522484,0.9799489622552249
+"Well, you should call 911. He might be dangerous anytime for the people in the surroundings you ought to be careful",0.0,0.8,0.0,0.0,0.0,0.0,0.2,-0.197375320224904,0.397375320224904
+"Oh boy, did you embarrass yourself by getting real scared? That's something that's easy to laugh about after the fact but I bet you were running for your life when it happened! Haha",0.2,0.6,0.4,0.2,0.4,0.8,0.35000000000000003,0.2449186624037092,0.10508133759629085
+I think some kids go through that. Did your parents comfort you? Oh no. Did you get much sleep as a kid at all?,0.5,0.8,0.2,0.7,0.3,0.0,0.55,-0.3799489622552249,0.9299489622552249
+There are so many things that come out at night. What are you referring to? They come out in the daytime too. It's just that they are scarier at night.,0.5,0.8,0.7,0.6,0.4,0.0,0.65,-0.4218990052500079,1.071899005250008
+Scary! Did you figure out what it was? Wow I'm glad it wasn't something scary lol,0.8,0.6,0.8,0.9,0.4,0.2,0.775,-0.44223035604572614,1.217230356045726
+"Wow, that is scary. Did you guys do anything or just stay away from it? Yes, I'd be very concerned about pets, too.  I'm glad your fiance got it before it caused anyone anymore trouble.",0.8,0.9,0.7,0.9,0.6,0.0,0.8250000000000001,-0.48154979836430806,1.3065497983643082
+Oh no! Were you home when it happened? I'm so glad you weren't there but I still hate to hear it. Did they take anything valuable?,0.8,0.9,0.7,0.9,0.6,0.0,0.8250000000000001,-0.48154979836430806,1.3065497983643082
+"That's no good. Are you going to report him to the police? Yeah, mentally ill people shouldn't even be allowed to have dogs. There should be a screening process.",0.0,0.2,0.0,0.0,0.0,0.8,0.05,0.33637554433633227,-0.2863755443363323
+"Oh no, how did you end up in that situation. Haha, that's awesome, at least you two made it out of it safely.",0.8,0.6,0.4,0.8,0.4,0.2,0.6499999999999999,-0.3363755443363321,0.986375544336332
+"Oh no, that's messed up! Hopefully your insurance will help out.",0.8,0.6,0.4,0.8,0.4,0.0,0.6499999999999999,-0.42189900525000784,1.0718990052500077
+"I see, is that a good thing or bad thing for you? Sorry to hear that. Well yeah, maybe it's for the best",0.8,0.6,0.4,0.8,0.6,0.2,0.6499999999999999,-0.24491866240370902,0.8949186624037089
+"Wow, did he forget your address? Wow, that is really nice",0.5,0.5,0.5,0.5,0.5,0.0,0.5,-0.24491866240370913,0.7449186624037092
+What are they getting treatment for I hope you guys get through it Just say some prayers and be positive,0.8,0.6,0.4,0.9,0.7,0.2,0.6749999999999999,-0.22127846789844394,0.8962784678984439
+oh no! that is horrible and those things always seem to happen when on your way to work or somewhere important wow that is a really expensive tire!!,0.8,0.6,0.4,0.8,0.6,0.2,0.6499999999999999,-0.24491866240370902,0.8949186624037089
+"Wow, that cat must have loved that shoe, he wanted it That is true, especially when you don't give them attention",0.5,0.8,0.5,0.2,0.2,0.0,0.5,-0.3799489622552249,0.8799489622552249
+"Wow that is odd, is there nothing you can do about it? That is insane, i hope everything works out!",0.8,0.6,0.4,0.8,0.6,0.2,0.6499999999999999,-0.24491866240370902,0.8949186624037089
+That is awful! I hate people who leave their dogs out all day. That's no life for a dog to live at all. That is terrible. I don't know why people like that bother getting a pet. ,0.8,0.9,0.7,0.4,0.6,0.2,0.7000000000000001,-0.29131261245159096,0.991312612451591
+"What do you mean by that? Those people need to find something better to do with their time! Get a hobby, people!",0.0,0.2,0.0,0.0,0.0,0.0,0.05,-0.04995837495787997,0.09995837495787997
+"From your house? do you have any idea who did it? I would be furious, they are expensive now a days!",0.6,0.8,0.4,0.2,0.6,0.2,0.49999999999999994,-0.09966799462495574,0.5996679946249557
+ewww. was it really gross? Maybe he had some bad food,0.8,0.6,0.4,0.8,0.6,0.0,0.6499999999999999,-0.33637554433633216,0.986375544336332
+Those are the kind you better keep a watch on. You never know what he might do. Don't engage with him he will think that your interested.,0.2,0.6,0.0,0.0,0.0,0.0,0.2,-0.197375320224904,0.397375320224904
+I'm so sorry. You should talk to a therapist. I'm sorry. Maybe she just needs time to process things.,0.8,0.6,0.4,0.8,0.6,0.0,0.6499999999999999,-0.33637554433633216,0.986375544336332
+"If you report him to his wife, the shame will make him pay you back Then talk to someone that he respects maybe they will talk senses into his ""head""",0.0,0.6,0.0,0.0,0.0,0.0,0.15,-0.14888503362331795,0.298885033623318
+Ah that sucks. Did they have a good reason to do so? Yes I would be too. I'd let my friend know that I don't appreciate being treated that way.,0.8,0.6,0.8,0.9,0.4,0.0,0.775,-0.5190218338982221,1.2940218338982221
+That sucks. Did you have a hard time with it? Maybe you can get a tutor this time.,0.8,0.6,0.4,0.9,0.7,0.2,0.6749999999999999,-0.22127846789844394,0.8962784678984439
+Sorry to hear that. Why is that? That must have been very upsetting. It happened to me back in 6th grade.,0.8,0.6,0.9,0.9,0.4,0.2,0.7999999999999999,-0.4621171572600097,1.2621171572600096
+I'm sorry to hear that you couldn't finish it! What couldn't you finish? Hey you are being too hard on yourself. I'm sure your boss would prefer it done well and not rushed. ,0.8,0.6,0.9,0.7,0.4,0.2,0.75,-0.4218990052500079,1.1718990052500078
+"I hate bullies, but they usually get what's coming to them. I know how you feel. Sometimes you just have to show them the error of their ways. If not karma will catch up with them.",0.6,0.4,0.8,0.2,0.6,0.8,0.5,0.19737532022490395,0.30262467977509605
+I hope you got a warranty on it. New cars should not have issues for a while. Well perhaps you got a lemon. I would ask for a new car if it happens again.,0.6,0.8,0.4,0.75,0.35,0.0,0.6375,-0.43211958763141955,1.0696195876314194
+And no one told you about it?  Maybe no one noticed it at all? That is horrible!  I hope they realize that their reaction was not exactly nice.,0.8,0.9,0.7,0.9,0.6,0.2,0.8250000000000001,-0.40113428494794595,1.226134284947946
+"Wow did anyone see? Dang, it must have been embarrassing ",0.8,0.6,0.4,0.2,0.8,0.0,0.49999999999999994,-0.09966799462495574,0.5996679946249557
+"OMG that sounds awful!  Was your friend upset? Nah, if they were understanding it's all good!  Everyone has a little too much from time to time.",0.8,0.6,0.4,0.8,0.6,0.2,0.6499999999999999,-0.24491866240370902,0.8949186624037089
+Hey it's ok. We all do stupid things when we are young.  Give it time. I'm sure he will come around. ,0.8,0.7,0.9,0.9,0.6,0.2,0.825,-0.40113428494794584,1.2261342849479457
+Try me haha oh man did the owner get mad...or did he just laugh it off,0.6,0.8,0.4,0.4,0.6,0.2,0.5499999999999999,-0.14888503362331787,0.6988850336233178
+Oh no!  My gut feels sick for you having to go through that.  It happens to all of us but its so painful and awkward.  How did the neighbors take it? Its so commendable that you went over and told them right away.  Not everyone would do that.  Your actions increases my faith in the goodness of people.,0.9,0.8,0.7,0.9,0.6,0.2,0.8250000000000001,-0.40113428494794595,1.226134284947946
+I am glad it was resolved. I sure hope that happens.,0.5,0.2,0.8,0.8,0.2,0.0,0.575,-0.44223035604572614,1.017230356045726
+That is funny i feel like someone should have said something though That is great well know you know what not to do on a plane lol,0.5,0.2,0.6,0.4,0.2,0.0,0.42499999999999993,-0.31402092534699755,0.7390209253469975
+"Oh no, that is embarrassing.  Were you able to recover by the end? I am so sorry that happened to you.  Will you get another crack at it sometime? I'm sorry.",0.8,0.9,0.9,0.9,0.7,0.0,0.875,-0.48154979836430795,1.356549798364308
+"Ohh, I feel sorry for you. It happens. You will be fine. Do your best the next time!",0.8,0.4,0.6,0.8,0.6,0.0,0.6500000000000001,-0.3363755443363323,0.9863755443363325
+"who felt left out? I'm confued? That's unfortunate, what did she end up doing?",0.5,0.8,0.2,0.6,0.4,0.0,0.525,-0.3140209253469976,0.8390209253469976
+"I would enjoy the peace and quiet!  Kick back, relax, and do whatever you want. Well in that case I hope they come home soon.  My family is just annoying mostly.",0.4,0.6,0.2,0.4,0.6,0.0,0.4,-0.09966799462495585,0.49966799462495587
+"Your company left you alone? In what way? That does sound like a troubling situation. Oh, I see. That makes a little more sense. Did everything work out, or are they still gone?",0.8,0.7,0.9,0.9,0.6,0.0,0.825,-0.4815497983643079,1.306549798364308
+"Why did you guys get divorced? Well, then it seems like it was a good choice.  Next time around you will know more what to look for before getting married.  I hope you find someone that matches up better with you.",0.8,0.9,0.7,0.9,0.6,0.0,0.8250000000000001,-0.48154979836430806,1.3065497983643082
+What country? If you don't mind sharing...I'm in South Texas and loving it :) I'm sure you'll meet some cool people if you find a good Pho restaurant!,0.5,0.8,0.2,0.7,0.3,0.0,0.55,-0.3799489622552249,0.9299489622552249
+i like alone time i think its good to find a healthy balance between being alone and being social,0.5,0.8,0.7,0.9,0.4,0.0,0.725,-0.4815497983643079,1.2065497983643079
+"Making new friends can be tough, is there anyone at work you bond with? I am sure that you will meet some new friends@",0.8,0.7,0.6,0.9,0.5,0.2,0.75,-0.3799489622552249,1.129948962255225
+I'm really sorry to hear that. How long did you have it for? That's really tough right now. I hope you're doing something fun to keep yourself occupied.,0.9,0.8,0.9,0.9,0.7,0.0,0.875,-0.48154979836430795,1.356549798364308
+"Im sorry to hear that.  How are you going? Thats true.  Just remember that as much as it might sting now there are plenty of people out there and you want to find one that makes you happy all of the time, not just some of the time.",0.8,0.6,0.4,0.9,0.7,0.2,0.6749999999999999,-0.22127846789844394,0.8962784678984439
+Did you get it done Thats a good start,0.5,0.2,0.5,0.8,0.2,0.0,0.5,-0.3799489622552249,0.8799489622552249
+does that usually happen often?  haha yeah it happens to me too. I bet you're frustrated about that. Have you tried different apps?,0.8,0.6,0.4,0.8,0.6,0.2,0.6499999999999999,-0.24491866240370902,0.8949186624037089
+"Sure, go ahead. Is it an important one? That's great. Have yo sent it yet? Congratulations, by the way. Wish you good luck ! OK sure. Go ahead",0.2,0.2,0.2,0.2,0.2,0.0,0.2,-0.09966799462495582,0.29966799462495586
+i have heard good things about that show.  are you a fan? is it going to be the last season? that's too bad.,0.5,0.8,0.5,0.8,0.2,0.0,0.65,-0.5005202111902353,1.1505202111902353
+Oh wow!  Congrats!!  What are you hoping for? That is so awesome!  How old are they?,0.8,0.6,0.9,0.9,0.4,0.0,0.7999999999999999,-0.5370495669980352,1.3370495669980351
+It'll be OK :) How long does this busyness usually last for? Oh that's not tooo bad...can you take your vacation during that time?,0.8,0.6,0.7,0.9,0.5,0.0,0.7499999999999999,-0.4621171572600097,1.2121171572600096
+"What type of job are you applying for? I bet you are, but don't worry you got this!",0.2,0.4,0.6,0.8,0.2,0.0,0.5,-0.3799489622552249,0.8799489622552249
+What happened? Is he okay now?,0.8,0.6,0.4,0.9,0.2,0.0,0.6749999999999999,-0.5190218338982221,1.194021833898222
+Congratulations. I bet you cant wait. You are gonna do great. Enjoy your time before you start work.,0.2,0.4,0.6,0.8,0.2,0.0,0.5,-0.3799489622552249,0.8799489622552249
+That can be nerve wracking.  Are you worried? Ah.  I find a mock interview with a friend can help. Good luck!,0.8,0.6,0.4,0.9,0.2,0.0,0.6749999999999999,-0.5190218338982221,1.194021833898222
+I'm sorry to hear that! Is it that busy at work? Oh are you a teacher?,0.8,0.4,0.2,0.6,0.4,0.0,0.5,-0.2913126124515909,0.7913126124515909
+Sometimes it just takes a time and you need to stay proactive. I know it can be disappointing.  Just keep a budget and stay strict. It will gradually get better.,0.6,0.4,0.4,0.6,0.4,0.0,0.5,-0.2913126124515909,0.7913126124515909
+"That's very sad, I'm sorry. I have had family members pass as well and it is never easy.  That poor woman. Hopefully she is going to be all right. ",0.9,0.8,0.9,0.9,0.7,0.2,0.875,-0.40113428494794595,1.276134284947946
+We never are prepared for something like that.. how long ago was it?  I understand! Its been about the same for me since my parents passed and it doesnt hurt any less.  Im sorry but I can tell you are strong! ,0.8,0.9,0.9,0.7,0.6,0.2,0.825,-0.40113428494794584,1.2261342849479457
+Oh my goodness. I'm so sorry to hear that. How old was your friend?,0.9,0.8,0.7,0.9,0.6,0.0,0.8250000000000001,-0.48154979836430806,1.3065497983643082
+"Oh wow, I'm sorry. I hope he at least didn't suffer much. I'm sorry for you loss.",0.9,0.8,0.9,0.9,0.7,0.0,0.875,-0.48154979836430795,1.356549798364308
+Did you cry? Well it looks like you survived!,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oh wow, I'm sorry to hear that! loss can be hard :( I'm sorry! Take the time to grieve and be there for your friend.",0.9,0.8,0.9,0.9,0.7,0.0,0.875,-0.48154979836430795,1.356549798364308
+What did you fail? How many times have you tried?,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Oh, well that's terrible! Hopefully, your husband was okay and nobody else was hurt. But, it's awful that anyone was. Yes, there are many times the emotional pain from tragic events are worse than physical. It doesn't make it easier that it was a person you knew, I'm sure. ",0.9,0.8,0.9,0.9,0.7,0.2,0.875,-0.40113428494794595,1.276134284947946
